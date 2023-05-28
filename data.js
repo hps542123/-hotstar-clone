@@ -7,7 +7,7 @@ let movies = [
     {
         name: 'liger',
         des: 'They are large, muscly and male ligers will have a mane, like a male lion, but often shorter than their fathers. They have dark tawny fur, with broad heads. They often have feint tiger stripes, inherited from their mother.',
-        image: ''images/slider1.PNG''
+        image: 'images/slider1.png'
     },
     {
         name: 'vikram vedha',
